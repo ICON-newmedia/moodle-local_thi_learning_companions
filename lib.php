@@ -83,7 +83,6 @@ function local_thi_learning_companions_get_attachments_of_chat_comments(array $c
  * @throws moodle_exception
  */
 function local_thi_learning_companions_extend_navigation(global_navigation $nav) {
-    return; // ICUNDO.
     if (has_capability('tool/thi_learning_companions:manage', context_system::instance())) {
         global $CFG, $PAGE;
         $rootnode = $nav->find('home', $nav::TYPE_ROOTNODE)->parent;
