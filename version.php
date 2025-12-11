@@ -31,7 +31,3 @@ $plugin->release = '1.0.0';
 $plugin->version = 2024052900;
 $plugin->requires = 2019111800;
 $plugin->maturity = MATURITY_RC;
-$plugin->dependencies = [
-    'block_thi_learning_companions_mygroups' => 2023092000,
-    'tool_thi_learning_companions' => 2023092200,
-];
