@@ -1,3 +1,7 @@
+# Archived
+Please don't use this repository anymore.<br>
+Instead, use https://github.com/thi-success-ai/local_thi_learning_companions
+
 # Learning Companions #
 
 # Technische Hochschule
